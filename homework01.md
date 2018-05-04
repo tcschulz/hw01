@@ -38,8 +38,8 @@ The purpose of this assignment is to review and develop understanding of the con
     
     5.  **Iteration** is the process of repeating a procedure methodologically until a desired result is achieved. To explain, a procedure is repeated to improve and build upon the previous procudure for achieving optimal results. One of the most basic examples of iteration is when a successful program is released, newer version are released periodically to improve bugs or increase functionality. 
 
-[1] http://www.aquinasonline.com/Topics/substacc.html
-[2] https://plato.stanford.edu/entries/aristotle-metaphysics/#Cate
+[1] http://www.aquinasonline.com/Topics/substacc.html <br>
+[2] https://plato.stanford.edu/entries/aristotle-metaphysics/#Cate <br>
 [3] Brooks. “No Silver Bullet Essence and Accidents of Software 		Engineering.” Computer, vol. 20, no. 4, 1987, pp. 10–19., doi:10.1109/mc.1987.1663532. 
 
 
